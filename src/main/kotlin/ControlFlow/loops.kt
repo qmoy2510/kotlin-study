@@ -14,4 +14,5 @@ fun main() {
     }
 
     //while문은 java랑 똑같아서 생략
+
 }
